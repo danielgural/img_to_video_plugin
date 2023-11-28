@@ -1,0 +1,9 @@
+name: "@danielgural/image_to_video"
+description: Image to Video Generation
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/danielgural/semantic_video_search/blob/main/README.md
+license: Apache 2.0
+operators:
+  - img2video
