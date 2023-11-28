@@ -12,6 +12,8 @@ This plugin is a Python plugin that allows for you to generate videos from image
 fiftyone plugins download https://github.com/danielgural/img_to_video_plugin
 ```
 
+If you want to use Replicate models, you will need to pip install replicate and set the environment variable REPLICATE_API_TOKEN with your API token.
+
 ## Operators
 
 ### `img2video`
