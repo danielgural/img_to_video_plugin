@@ -16,7 +16,7 @@ fiftyone plugins download https://github.com/danielgural/img_to_video_plugin
 
 ### `img2video`
 
-Accepts in sample or samples to generate videos using a image to video model. Currently the only supported model is [Stable Video Diffusion](https://replicate.com/stability-ai/stable-video-diffusion/api?tab=python) on [replicate](https://replicate.com/).
+Accepts in sample or samples to generate videos using a image to video model. Currently the only supported model is [Stable Video Diffusion](https://replicate.com/stability-ai/stable-video-diffusion/api?tab=python) on [replicate](https://replicate.com/) Refer to [inputs](https://replicate.com/stability-ai/stable-video-diffusion/api?tab=python) for more information on the inputs into the model.
 
 
 
